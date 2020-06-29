@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Let\' push for change!'
+landing-title: 'You can do it!'
 description: null
 image: null
 author: null
